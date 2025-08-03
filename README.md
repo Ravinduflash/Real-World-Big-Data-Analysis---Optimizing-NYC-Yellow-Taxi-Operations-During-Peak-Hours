@@ -217,9 +217,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **GitHub:** [@Ravinduflash](https://github.com/Ravinduflash)
+- **LinkedIn:** [Ravindu Dulshan](www.linkedin.com/in/ravindu-dulshan)
+- **Email:** dulshanravindu505@gmail.com
 
 ---
 
